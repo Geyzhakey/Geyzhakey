@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Geyzhakey</h1>
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geyzhakey" alt="geyzhakey" /></a> </p>
+```html
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=geyzhakey" alt="GitHub Profile Trophy" />
+  </a>
+</p>
+```
 
 - 👨‍💻 All of my projects are available at [-](-)
 
