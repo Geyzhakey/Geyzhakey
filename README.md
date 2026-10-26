@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geyzhakey&label=Profile%20views&color=0e75b6&style=flat" alt="geyzhakey" /> </p>
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [](-)
 
 - 📝 I regularly write articles on [-](-)
 
