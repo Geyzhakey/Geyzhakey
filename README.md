@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Geyzhakey</h1>
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geyzhakey&label=Profile%20views&color=0e75b6&style=flat" alt="geyzhakey" /> </p>
-
 - 👨‍💻 All of my projects are available at [](-)
 
 - 📝 I regularly write articles on [-](-)
