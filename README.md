@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geyzhakey</h1>
-<h3 align="center">A passionate Game Developer from Indonesia</h3>
+<h3 align="center">A passionate Game Developer from Indonesian</h3>
 
 - 👨‍💻 All of my projects are available at [](-)
 
